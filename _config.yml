@@ -2,9 +2,5 @@ title: Zahra Aminolroaya # your name (or website title) here
 logo: "/images/zahraPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
-  <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
