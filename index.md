@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Epilepsy Presurgical Evaluation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ![alt-text-1](images/dummy_thumbnail.jpg "title-1") ![alt-text-2](images/dummy_thumbnail.jpg "title-2")
 ---
