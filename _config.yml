@@ -2,7 +2,4 @@ title: Zahra Aminolroaya # your name (or website title) here
 logo: "/images/zahraPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have experience in solving data-related problems in the domain of AR/VR from the HCI perspective as well as in the field of NLP.
-contact me:
-- <i class="fa fa-stackoverflow"></i> https://stackoverflow.com/users/786542
-- <i class="fa fa-so"></i> https://stackoverflow.com/users/786542
 theme: jekyll-theme-minimal
