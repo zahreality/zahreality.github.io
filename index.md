@@ -6,7 +6,7 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+![alt-text-1](dummy_thumbnail.jpg "title-1") ![alt-text-2](ummy_thumbnail.jpg "title-2")
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
