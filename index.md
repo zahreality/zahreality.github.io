@@ -10,10 +10,9 @@
 
 
 ---
-[Data Analysis in Clinical Research Unit](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data Analysis in the Clinical Research Unit](/pdf/sample_presentation.pdf)
+</br>
+<img src="images/CRU1.png" width=200/>
 
----
-[Project 3 Title](http://example.com/)
 
 
