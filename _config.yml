@@ -2,6 +2,8 @@ title: Zahra Aminolroaya # your name (or website title) here
 logo: "/images/zahraPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have experience in solving data-related problems in the domain of AR/VR from the HCI perspective as well as in the field of NLP.
+<br><br>
+  <a href="https://www.linkedin.com/in/example/">View My Git Profile</a> 
 theme: jekyll-theme-minimal
 social_links:
     twitter: jekyllrb
