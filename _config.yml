@@ -5,5 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="25"></a> 
   <a href="https://stackoverflow.com/users/3283528/zahra-aminolroaya" target="_blank"> <img src="http://logo.clearbit.com/stackoverflow.com" alt="stack" width="25"></a> 
-  <a href="milto:z.aminolroaya@gmail.com" target="_blank"> <img src="http://logo.clearbit.com/stackoverflow.com" alt="stack" width="25"></a> 
+  <a href="mailto:z.aminolroaya@gmail.com"> <img src="http://logo.clearbit.com/stackoverflow.com" alt="stack" width="25"></a> 
 theme: jekyll-theme-minimal
