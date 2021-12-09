@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 title: Zahra Aminolroaya # your name (or website title) here
 logo: "/images/zahraPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have experience in solving data-related problems in the domain of AR/VR from the HCI perspective as well as in the field of NLP.
   <br><br>
-  <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/"><i style="font-size:24px" class="fa">&#xf08c;</i></a> 
+  <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/"><i class="fab fa-linkedin-in"></i></a> 
 theme: jekyll-theme-minimal
