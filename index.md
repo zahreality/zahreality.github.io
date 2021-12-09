@@ -6,7 +6,7 @@
 
 [VR in Neuroscience](/sample_page)
 <p>
-<img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=175/>
+<img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=172/>
 </p>
 
 ---
