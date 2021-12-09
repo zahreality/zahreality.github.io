@@ -4,9 +4,9 @@
 
 ### Projects
 
-[EPES](/sample_page)
+[VR in Neuroscience](/sample_page)
 <p>
-<img src="images/dummy_thumbnail.jpg" width="100"/><img src="images/dummy_thumbnail.jpg" width="100"/>
+<img src="images/EPES1.png" width="100"/><img src="images/EPES2.png" width="100"/>
 </p>
 
 ---
