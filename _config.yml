@@ -3,6 +3,6 @@ logo: "/images/zahraPhoto.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I have experience in solving data-related problems in the domain of AR/VR from the HCI perspective as well as in the field of NLP.
   <br><br>
-  <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="40"></a> 
-  <a href="https://stackoverflow.com/users/3283528/zahra-aminolroaya" target="_blank"> <img src="http://logo.clearbit.com/stackoverflow.com" alt="stack" width="40"></a> 
+  <a href="https://www.linkedin.com/in/zahra-aminolroaya-5133b472/" target="_blank"> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" width="25"></a> 
+  <a href="https://stackoverflow.com/users/3283528/zahra-aminolroaya" target="_blank"> <img src="http://logo.clearbit.com/stackoverflow.com" alt="stack" width="25"></a> 
 theme: jekyll-theme-minimal
