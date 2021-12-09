@@ -18,5 +18,9 @@
 <br>
 <img src="images/SNA.png" width=200/>
 
+---
+[Plagarism Detection](/pdf/sample_presentation.pdf)
+<br>
+<img src="images/plag.png" width=200/>
 
 
