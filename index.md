@@ -14,6 +14,6 @@
 ---
 [Social Network Analysis](/pdf/sample_presentation.pdf)
 <br>
-<img src="images/CRU1.png" width=200/>
+<img src="images/SNA.png" width=200/>
 
 
