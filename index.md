@@ -5,14 +5,7 @@
 ### Papers (VR/HCI)
 
 | I am text to the left  | ![Flowers](images/1.png){:height="36px" width="36px"} |
-| <div style="float:left">
-  <div style="display:inline-block" width='20%'>
-          <span style="color:red"><u>ACM AVI 2022</u></span>
-          <div>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</div>
-          <i><b>Zahra Aminolroaya</b>, Wesley Willett, Colin B. Josephson, Samuel Wiebe, and Frank Maurer</i>
-          <kbd>pdf</kbd>
-          <kbd>video</kbd>
-  </div>  | <img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/> |
+| <span style="color:red"><u>ACM AVI 2022</u>  | <img src="images/2.png" width=130/><img src="images/3.png"  width=130/> |
 
 
 
