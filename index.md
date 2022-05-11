@@ -17,7 +17,9 @@
           <img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/>
   </div>
 </div>
+
 <hr>
+
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2020</u></span>
@@ -30,7 +32,9 @@
           <img src="images/EPES1.PNG" width=200/>
   </div>
 </div>
+
 <hr>
+
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2019</u></span>
