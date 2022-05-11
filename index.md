@@ -1,7 +1,7 @@
 # Portfolio
 
-# Publications
-## Papers (VR/HCI)
+## Publications
+### Papers (VR/HCI)
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM AVI 2022</u></span>
