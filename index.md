@@ -2,7 +2,7 @@
 
 ---
 ### Conference Papers
-<kbd>
+<li>
 <u>ACM AVI 2022</u>
   <p>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</p>
   <img src="images/1.png" width=150 height=105/><img src="images/2.png" width=170/><img src="images/3.png" width=170/>
@@ -10,7 +10,7 @@
 
 <kbd>pdf</kbd>
 <kbd>video</kbd>
-</kbd>
+</li>
 <br>
  
 ---
