@@ -2,7 +2,7 @@
 # Portfolio
 
 ## Papers (VR/HCI)
-<html>
+<html markdown="1">
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM AVI 2022</u></span>
