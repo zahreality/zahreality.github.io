@@ -3,8 +3,7 @@
 
 ---
 ### Conference Papers
-  <span>
-  <ul style="list-style: none;">
+  <span><ul style="list-style: none;">
    <li><li><u>ACM AVI 2022</u></li>
    <li><p>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</p></li></li>
    <li><i><b>Zahra Aminolroaya</b>, Wesley Willett, Colin B.Josephson, Samuel Wiebe, and Frank Maurer</i></li>
