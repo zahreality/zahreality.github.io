@@ -4,7 +4,6 @@
 
 ### Papers (VR/HCI)
 
-| I am text to the left  | ![Flowers](images/1.png){:height="36px" width="36px"} |
 | <span style="color:red"><u>ACM AVI 2022</u><div>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</div>  | <img src="images/2.png" width=130/><img src="images/3.png"  width=130/> |
 
 
