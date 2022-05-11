@@ -4,7 +4,7 @@
 
 ### Papers (VR/HCI)
 
-| I am text to the left  | ![Flowers](images/1.png =100x20) |
+| I am text to the left  | ![Flowers](images/1.png){:height="36px" width="36px"} |
 
 
 
