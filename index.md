@@ -3,7 +3,6 @@
 
 ---
 ### Conference Papers
-<div style="display: inline">
  <span>
   <ul style="list-style: none;">
    <li><li><u>ACM AVI 2022</u></li>
@@ -12,8 +11,7 @@
    <li><kbd>pdf</kbd>
    <kbd>video</kbd></li>
   </ul></span>
-  <span><img src="images/1.png" width=130 height=90/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/></span>
-</div>
+  <span><img src="images/1.png" width=130 height=85/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/></span>
 <br>
 <br>
 ---
