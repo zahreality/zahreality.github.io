@@ -1,6 +1,7 @@
 
 # Portfolio
 
+# Publications
 ## Papers (VR/HCI)
 <html markdown="1">
 <div style="float:left">
