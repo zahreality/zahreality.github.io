@@ -5,7 +5,7 @@
 
 [ACM AVI 2022](https://sites.google.com/di.uniroma1.it/avi2022/calls/paper-submission)
 <p>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</p>
-<img src="images/CRU1.png" width=100/><img src="images/CRU1.png" width=170/>
+<img src="images/1.png" width=170/><img src="images/2.png" width=170/><img src="images/3.png" width=170/>
 <i><b>ZahraAminolroaya</b>, WesleyWillett, Colin B.Josephson, SamuelWiebe, and Frank Maurer</i>
 
 ---
