@@ -1,6 +1,3 @@
-
-<html markdown="1">
-
 # Portfolio
 
 # Publications
@@ -64,4 +61,3 @@
 <br>
 <img src="images/plag.png" width=200/>
 
-</html>
