@@ -2,7 +2,7 @@
 ## Portfolio
 
 ---
-### Conference Papers (VR/HCI)
+### Papers (VR/HCI)
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <u>ACM AVI 2022</u>
