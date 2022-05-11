@@ -6,7 +6,7 @@
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <u>ACM AVI 2022</u>
-          Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping
+          <div>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</div>
           <i><b>Zahra Aminolroaya</b>, Wesley Willett, Colin B.Josephson, Samuel Wiebe, and Frank Maurer</i>
           <kbd>pdf</kbd>
           <kbd>video</kbd>
