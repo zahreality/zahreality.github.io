@@ -8,26 +8,6 @@
 
 | <span style="color:red">ACM ISS 2020</span><br>Virtual Reality for Understanding Multidimensional Spatiotemporal Phenomena in Neuroscience<br><i><i><b>Zahra Aminolroaya</b>, Seher Dawar, Samuel Wiebe, Colin B. Josephson, and Frank Maurer</i> <kbd>pdf</kbd><kbd>video</kbd>     | <img src="images/4.png"/> |
 
-
-<div style="float:left">
-  <div style="display:inline-block" width='20%'>
-          <span style="color:red"><u>ACM AVI 2022</u></span>
-          <div>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</div>
-          <i><b>Zahra Aminolroaya</b>, Wesley Willett, Colin B. Josephson, Samuel Wiebe, and Frank Maurer</i>
-          <kbd>pdf</kbd>
-          <kbd>video</kbd>
-  </div>
-  <br>
-  <div style="display:inline-block" width='80%'>
-          <img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/>
-  </div>
-</div>
-
-* * *
-
-
-<hr>
-
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2020</u></span>
