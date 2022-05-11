@@ -4,8 +4,7 @@
 
 ### Papers (VR/HCI)
 
-| <span style="color:red"><u>ACM AVI 2022</u></span>
-  <div>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</div>  | <img src="images/2.png" width=130/> |
+| <span style="color:red"><u>ACM AVI 2022</u></span>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping | <img src="images/2.png" width=130/> |
 
 
 
