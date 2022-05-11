@@ -4,7 +4,7 @@
 
 ### Papers (VR/HCI)
 
-| <span style="color:red">ACM AVI 2022</span><br>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping | <img src="images/2.png"/> |
+| <span style="color:red">ACM AVI 2022</span><br>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping<br><i><b>Zahra Aminolroaya</b>, Wesley Willett, Colin B. Josephson, Samuel Wiebe, and Frank Maurer</i> | <img src="images/2.png"/> |
 
 
 
