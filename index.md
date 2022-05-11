@@ -3,6 +3,11 @@
 
 ---
 ### Conference Papers
+<img style='vertical-align:middle;' src='images/EPES2.png'>
+<div style='vertical-align:middle; display:inline;'>
+Your text here
+</div>
+
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <u>ACM AVI 2022</u>
