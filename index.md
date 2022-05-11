@@ -11,7 +11,7 @@
    <li><kbd>pdf</kbd>
    <kbd>video</kbd></li>
   </ul></span>
-  <span><img src="images/1.png" width=130 height=85/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/></span>
+  <span><img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/></span>
   </div>
 <br>
 <br>
