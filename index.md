@@ -10,7 +10,7 @@
 <li><i><b>ZahraAminolroaya</b>, WesleyWillett, Colin B.Josephson, SamuelWiebe, and Frank Maurer</i></li>
 <li><kbd>pdf</kbd>
 <kbd>video</kbd></li></ul></div>
-<div><li><img src="images/1.png" width=130 height=90/><img src="images/2.png" width=130/><img src="images/3.png" width=130/></li></div></div>
+<div><img src="images/1.png" width=130 height=90/><img src="images/2.png" width=130/><img src="images/3.png" width=130/></div></div>
 <br>
  
 ---
