@@ -15,6 +15,7 @@
 <br>
 <br>
 ---
+
 ### Projects
 
 [VR in Neuroscience](/sample_page)
