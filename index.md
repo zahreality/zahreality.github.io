@@ -33,6 +33,20 @@
 </div>
 
 ---
+<div style="float:left">
+  <div style="display:inline-block" width='20%'>
+          <span style="color:red"><u>ACM ISS 2019</u></span>
+          <div>EPES: Seizure Propagation Analysis in an Immersive Environment/div>
+          <i><b>Zahra Aminolroaya</b>, Samuel Wiebe, Colin Bruce Josephson, Hannah Sloan, Christian Roatis, Patrick Abou Gharib, Frank Maurer, and Kun Feng</i>
+          <kbd>pdf</kbd>
+          <kbd>video</kbd>
+  </div>
+  <div style="display:inline-block" width='80%'>
+          <img src="images/EPES1.PNG" width=200/>
+  </div>
+</div>
+
+---
 
 ### Projects
 [VR in Neuroscience](/sample_page)
