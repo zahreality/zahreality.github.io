@@ -3,6 +3,7 @@
 
 ---
 ### Conference Papers
+  <div>
   <span><ul style="list-style: none;">
    <li><li><u>ACM AVI 2022</u></li>
    <li><p>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</p></li></li>
@@ -11,6 +12,7 @@
    <kbd>video</kbd></li>
   </ul></span>
   <span><img src="images/1.png" width=130 height=85/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/></span>
+  </div>
 <br>
 <br>
 ---
