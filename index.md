@@ -1,9 +1,9 @@
 
+<html markdown="1">
 # Portfolio
 
 # Publications
 ## Papers (VR/HCI)
-<html markdown="1">
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM AVI 2022</u></span>
@@ -44,7 +44,7 @@
   </div>
 </div>
 <hr>
-</html>
+
   
 ## Projects
 [VR in Neuroscience](/sample_page)
@@ -63,4 +63,4 @@
 <br>
 <img src="images/plag.png" width=200/>
 
-
+</html>
