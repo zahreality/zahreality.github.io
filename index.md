@@ -24,7 +24,7 @@
           <kbd>video</kbd>
   </div>
   <div style="display:inline-block" width='80%'>
-          <img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=174/>
+          <img src="images/EPES1.PNG" width=200/>
   </div>
 </div>
 
