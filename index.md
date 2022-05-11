@@ -1,6 +1,6 @@
 <center><h1>About me</h1></center>
 
-## Publications
+<center><h1>Publications</h1></center>
 ### Papers (VR/HCI)
 
 <div style="float:left">
