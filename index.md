@@ -19,19 +19,9 @@
 | <span style="color:red">IEEE ICWR 2017</span><br>How Iranian Instagram users act for parliament election campaign? a study based on followee network<br><i><i><b>Zahra Aminolroaya</b>, Ali Katanforoush</i> <kbd>pdf</kbd><kbd>video</kbd>     | <img src="images/SNA.png" width=600/> |
 
 ## Projects
-[VR in Neuroscience](/sample_page)
-<br>
-<img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=174/>
-<hr>
+
 [Data Analysis in the Clinical Research Unit](/pdf/sample_presentation.pdf)
 <br>
 <img src="images/CRU1.png" width=200/>
-<hr>
-[Social Network Analysis](/pdf/sample_presentation.pdf)
-<br>
-<img src="images/SNA.png" width=200/>
-<hr>
-[Plagarism Detection](/pdf/sample_presentation.pdf)
-<br>
-<img src="images/plag.png" width=200/>
+
 
