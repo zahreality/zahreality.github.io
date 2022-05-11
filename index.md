@@ -3,11 +3,6 @@
 
 ---
 ### Conference Papers
-<img style='vertical-align:middle;' src="images/1.png" width=130 height=80>
-<div style='vertical-align:middle; display:inline;'>
-Your text here
-</div>
-
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <u>ACM AVI 2022</u>
