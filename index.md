@@ -19,7 +19,7 @@
 <br>
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
-          <u>ACM ISS 2020</u>
+          <span style="color:red"><u>ACM ISS 2020</u></span>
           <div>Virtual Reality for Understanding Multidimensional Spatiotemporal Phenomena in Neuroscience</div>
           <i><b>Zahra Aminolroaya</b>, Seher Dawar, Samuel Wiebe, Colin B. Josephson, and Frank Maurer</i>
           <kbd>pdf</kbd>
