@@ -17,8 +17,8 @@
   </div>
 </div>
 
+
 ---
-###
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2020</u></span>
@@ -32,8 +32,8 @@
   </div>
 </div>
 
+
 ---
-###
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2019</u></span>
@@ -46,6 +46,7 @@
           <img src="images/4.png" width=200/>
   </div>
 </div>
+
 
 ---
 ### Projects
