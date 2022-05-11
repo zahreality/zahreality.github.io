@@ -3,7 +3,7 @@
 
 ---
 ### Conference Papers
- <span>
+  <span>
   <ul style="list-style: none;">
    <li><li><u>ACM AVI 2022</u></li>
    <li><p>Watch The Videos Whenever You Have Time: Asynchronously Involving Neurologists In VR Prototyping</p></li></li>
@@ -17,7 +17,6 @@
 ---
 
 ### Projects
-
 [VR in Neuroscience](/sample_page)
 <br>
 <img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=174/>
