@@ -4,6 +4,10 @@
 
 ### Papers (VR/HCI)
 
+| I am text to the left  | ![Flowers](images/1.png =100x20) |
+
+
+
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM AVI 2022</u></span>
