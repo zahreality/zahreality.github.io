@@ -1,8 +1,8 @@
 
 # Portfolio
 
-<hr>
 ## Papers (VR/HCI)
+<html>
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM AVI 2022</u></span>
@@ -43,6 +43,8 @@
   </div>
 </div>
 <hr>
+</html>
+  
 ## Projects
 [VR in Neuroscience](/sample_page)
 <br>
