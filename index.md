@@ -1,4 +1,4 @@
-# Portfolio
+<center><h1>About me</h1></center>
 
 ## Publications
 ### Papers (VR/HCI)
