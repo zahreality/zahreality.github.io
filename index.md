@@ -1,7 +1,7 @@
 
 # Portfolio
 
----
+<hr>
 ## Papers (VR/HCI)
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
@@ -16,7 +16,7 @@
           <img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/>
   </div>
 </div>
-------
+<hr>
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2020</u></span>
@@ -29,7 +29,7 @@
           <img src="images/EPES1.PNG" width=200/>
   </div>
 </div>
-======
+<hr>
 <div style="float:left">
   <div style="display:inline-block" width='20%'>
           <span style="color:red"><u>ACM ISS 2019</u></span>
@@ -42,25 +42,20 @@
           <img src="images/4.png" width=200/>
   </div>
 </div>
-
-
----
+<hr>
 ## Projects
 [VR in Neuroscience](/sample_page)
 <br>
 <img src="images/EPES1.PNG" width=200/><img src="images/EPES2.png" width=174/>
-
----
+<hr>
 [Data Analysis in the Clinical Research Unit](/pdf/sample_presentation.pdf)
 <br>
 <img src="images/CRU1.png" width=200/>
-
----
+<hr>
 [Social Network Analysis](/pdf/sample_presentation.pdf)
 <br>
 <img src="images/SNA.png" width=200/>
-
----
+<hr>
 [Plagarism Detection](/pdf/sample_presentation.pdf)
 <br>
 <img src="images/plag.png" width=200/>
