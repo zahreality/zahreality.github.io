@@ -5,6 +5,8 @@
 ### Papers (VR/HCI)
 
 | I am text to the left  | ![Flowers](images/1.png){:height="36px" width="36px"} |
+| I am text to the left  | <img src="images/1.png" width=130 height=80/><img src="images/2.png" width=130/><img src="images/3.png"  width=130/> |
+
 
 
 
